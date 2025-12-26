@@ -1,5 +1,5 @@
 # MarketingCampaing-w-RandomizedDataset
-This is a personal project involving data analysis and ML techniques to find client profiles based on gathered information in a fictional sales company's dataset with randomized data.
+This is a personal project involving data analysis and ML techniques to find client profiles of a fictional sales company named Quantum.
 
 | Column Name | Data Type | Description |
 | ----------- | --------- | ----------- |
