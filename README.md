@@ -1,5 +1,6 @@
 # MarketingCampaing-w-RandomizedDataset
 This is a personal project involving data analysis and ML techniques to find client profiles of a fictional sales company named Quantum.
+Due the dataset having random data, the insights I got are only one of the infinite possible outputs
 
 | Column Name | Data Type | Description |
 | ----------- | --------- | ----------- |
@@ -14,8 +15,6 @@ This is a personal project involving data analysis and ML techniques to find cli
 | SocialMediaInteractions | Numerical | Number of interactions (likes, comments) on the brand’s social media |
 | AvgSessionDuration | Numerical | Average duration of a website session (in minutes) |
 | ItemsInCart	Numerical	Average number of items left in the shopping cart |
-
-Due the randomized dataset, the insights I got are only one of the infinite possible outputs
 
 ## Code to create and save the dataset
 
