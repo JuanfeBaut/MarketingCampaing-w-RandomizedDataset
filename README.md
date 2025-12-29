@@ -14,7 +14,7 @@ Due the dataset having random data, the insights I got are only one of the infin
 | AdClicks | Numerical | Number of clicks on digital ads in the last year |
 | SocialMediaInteractions | Numerical | Number of interactions (likes, comments) on the brand’s social media |
 | AvgSessionDuration | Numerical | Average duration of a website session (in minutes) |
-| ItemsInCart	Numerical	Average number of items left in the shopping cart |
+| ItemsInCart	| Numerical |	Average number of items left in the shopping cart |
 
 ## Code to create and save the dataset
 
